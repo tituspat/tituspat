@@ -1,6 +1,6 @@
 # ❓About Me ❓
 
-## Hi there <img src="assets/gifs/wave.gif" alt="Wave" width="25px">, I'm Titus
+## Hi there, I'm Titus
 
 ## 📊 My GitHub Stats
 
